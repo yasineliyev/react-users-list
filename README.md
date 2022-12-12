@@ -1,2 +1,2 @@
 # Demo
-https://users-list-table.netlify.app
+https://react-users-list-table.netlify.app
